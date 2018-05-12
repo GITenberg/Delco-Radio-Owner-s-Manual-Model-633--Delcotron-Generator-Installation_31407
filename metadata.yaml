@@ -1,0 +1,28 @@
+_repo: Delco-Radio-Owner-s-Manual-Model-633--Delcotron-Generator-Installation_31407
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31407-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Delco-Remy Corporation
+    aliases:
+    - General Motors Corporation. Delco-Remy Corporation
+    - DELCO
+    gutenberg_agent_id: '35205'
+    url: http://www.gutenberg.org/2009/agents/35205
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2010-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31407'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Radio -- Receivers and reception -- Handbooks, manuals, etc.'
+- !lcc 'TK'
+title: Delco Radio Owner's Manual Model 633; Delcotron Generator Installation
+url: http://www.gutenberg.org/ebooks/31407
